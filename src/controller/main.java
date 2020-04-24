@@ -15,7 +15,6 @@ public class main {
 		coCars.setTipCombustible("Diesel");
 		
 		System.out.println("Coches:");
-		System.out.println();
 		System.out.println(coche.toString()+"\n");
 		System.out.println(coCars.toString());
 	}
